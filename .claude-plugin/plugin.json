@@ -1,0 +1,13 @@
+{
+  "name": "workbench",
+  "version": "0.1.0",
+  "description": "Project skills for AI agents, for any project, personal or professional: project charter, stakeholders, decisions, task breakdown, realistic schedule, budget, risks, RACI, meetings, status updates, delegation, choosing vendors, weekly review, late projects, scope changes and retrospectives. Works in English, French and Spanish.",
+  "author": {
+    "name": "teodstr",
+    "url": "https://github.com/teodstr"
+  },
+  "homepage": "https://github.com/teodstr/workbench",
+  "repository": "https://github.com/teodstr/workbench",
+  "license": "MIT",
+  "keywords": ["project-management", "planning", "productivity", "risk-management", "meetings", "decision-making", "budget", "raci"]
+}

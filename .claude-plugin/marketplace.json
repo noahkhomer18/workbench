@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "workbench",
+  "description": "Project skills for AI agents: plan, run and finish any project, personal or professional.",
+  "owner": {
+    "name": "teodstr",
+    "url": "https://github.com/teodstr"
+  },
+  "plugins": [
+    {
+      "name": "workbench",
+      "description": "Frame, plan, run and close any project (a renovation, a move, an event, a launch, a migration): charter, schedule, budget, risks, meetings, status updates, vendors and more. In English, French and Spanish.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
