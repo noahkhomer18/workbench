@@ -35,7 +35,7 @@ The cheapest quote is often the most expensive one once delays, extras and missi
 1. **Write a short specification** so that every supplier quotes the same thing: scope, quantities, quality level, deadline, constraints of the site or the system.
 2. **Get at least three comparable quotes** and put them line by line in the same table: what is included, what is excluded, unit prices, taxes, deposit and payment terms, delays, validity of the quote.
 3. **Check the risks behind each offer**: references and reviews you can verify, registration of the company, insurance and guarantees required for this kind of work, subcontracting, cancellation terms. Large deposits before any work starts are a warning sign.
-4. **Check the official rules** that protect buyers in the country, on the official page and with the date (for example service-public.fr and the DGCCRF on economie.gouv.fr in France, the Your Europe portal for cross-border purchases in the European Union, the local consumer office in Spain, PROFECO in Mexico).
+4. **Check the official rules** that protect buyers in the country, on the official page and with the date (for example service-public.fr and the DGCCRF on economie.gouv.fr in France, the Your Europe portal for cross-border purchases in the European Union, the local consumer office in Spain, the Office de la protection du consommateur in Quebec, PROFECO in Mexico).
 5. **Score the offers** on weighted criteria (`decision-making`), price being one criterion among several.
 6. **Prepare the negotiation and the questions** before signing: what is unclear, what is missing, a payment schedule tied to milestones, penalties for delays when they make sense.
 7. **Write down the choice** and the reasons, and keep the losing quotes: they help if the chosen supplier fails.
@@ -80,6 +80,10 @@ Recommendation: … | Questions before signing: 1. … | Rules checked on <date>
 - Kraljic, P. (1983). Purchasing must become supply management. *Harvard Business Review*, 61(5), 109–117.
 - Service-Public.fr (official portal for individuals in France): https://www.service-public.fr
 - Your Europe (European Union): https://europa.eu/youreurope
+- Office de la protection du consommateur (Quebec, Canada: consumer rights, contracts, deposits and guarantees): https://www.opc.gouv.qc.ca/mes-droits-consommateur
+- Office de la protection du consommateur, guarantees on consumer goods (Quebec): https://www.opc.gouv.qc.ca/garanties
+- Office de la protection du consommateur, deposits before a contract is concluded (Quebec): https://www.opc.gouv.qc.ca/commercant/pratique-commerce/acompte/avant-conclusion-contrat
+- Office de la protection du consommateur, steps when a merchant is a problem, including complaints (Quebec): https://www.opc.gouv.qc.ca/consommateur/probleme-commercant/etapes
 - PROFECO (Mexico, federal consumer protection agency, with guidance on quotes, deposits and guarantees): https://www.gob.mx/profeco
 - Ley Federal de Protección al Consumidor (Mexico, official text): https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 - PROFECO, complaints and denunciations (Mexico): https://www.gob.mx/profeco/articulos/proceso-y-requisitos-de-quejas-y-denuncias
